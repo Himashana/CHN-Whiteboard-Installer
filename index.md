@@ -2,34 +2,9 @@
 
 CHN Whiteboard Installer is a simple GUI application design by Himashana (CHN Software developers) that allows you to install [CHN Whiteboard](https://github.com/Himashana/CHN-Whiteboard) easily on your computer with few steps.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Himashana/CHN-Whiteboard-Installer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Versions
+| Version | Released date          | End-of-service         | Supported          | Download           |
+| ------- | ---------------------- | ---------------------- | ------------------ | ------------------ |
+| 1.2.0   | Jun 16, 2021           | Aug 31, 2021           | :white_check_mark: |https://github.com/Himashana/CHN-Whiteboard/releases/tag/v1.2.0 |
+| 1.0.1   | May 21, 2021           | Jun 30, 2021           | :white_check_mark: |https://github.com/Himashana/CHN-Whiteboard/releases/tag/v1.0.1 |
+| 1.0.0   | May 16, 2021           | Jun 10, 2021           | :x: |Link not found!|
