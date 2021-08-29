@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CHN Whiteboard Installer Home page
 
-You can use the [editor on GitHub](https://github.com/Himashana/CHN-Whiteboard-Installer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CHN Whiteboard Installer is a simple GUI application design by Himashana (CHN Software developers) that allows you to install [CHN Whiteboard](https://github.com/Himashana/CHN-Whiteboard) easily on your computer with few steps.
 
 ### Markdown
 
