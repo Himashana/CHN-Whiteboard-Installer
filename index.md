@@ -4,7 +4,7 @@ CHN Whiteboard Installer is a simple GUI application design by Himashana (CHN So
 
 ### Versions
 
-CHN-Whiteboard-Installer_v1.0.2 : [Download](https://github.com/Himashana/CHN-Whiteboard-Installer/releases/download/v1.0.3/CHN-Whiteboard-Installer-setup.zip) (Latest)<br>
+CHN-Whiteboard-Installer_v1.0.3 : [Download](https://github.com/Himashana/CHN-Whiteboard-Installer/releases/download/v1.0.3/CHN-Whiteboard-Installer-setup.zip) (Latest)<br>
 CHN-Whiteboard-Installer_v1.0.2 : [Download](https://github.com/Himashana/CHN-Whiteboard-Installer/releases/download/v1.0.2/CHN-Whiteboard-Installer-setup.zip)<br>
 CHN-Whiteboard-Installer_v1.0.1 : [Download](https://github.com/Himashana/CHN-Whiteboard-Installer/releases/download/v1.0.1/CHN-Whiteboard-Installer-setup.zip)<br>
 CHN-Whiteboard-Installer_v1.0.0 : [Download](https://github.com/Himashana/CHN-Whiteboard-Installer/releases/download/v1.0.0/CHN.Whiteboard.Installer.setup.msi)
